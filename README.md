@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h1 align="center"> I'm Rodinei Teixeira</h1>
+
+
+<h3 align="center"> I'm Fullstack Developer </h3>
+<p align="center">
+<img src="https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width=”500" height=”150" />
+</p>
 <!--
 **rodineiti/rodineiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
